@@ -16,7 +16,7 @@ import { useNavigate } from "react-router"
 const schema = object({
     title: string().required().min(3).max(80),
     description: string(),
-    ingredients: array().of(string().required().min(5)),
+    ingredients: array().of(string().required().min(5)).required(),
     instructions: string().required(),
 }).required()
 

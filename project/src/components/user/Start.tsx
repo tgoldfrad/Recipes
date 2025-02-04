@@ -12,11 +12,11 @@ function Start() {
   const [currentUser, currentUserDispatch] = useReducer(userReducer, {} as User)
   return (
     <>
-      <UserContext.Provider value={[currentUser, currentUserDispatch]}>
+      <UserContext value={[currentUser, currentUserDispatch]}>
       <Provider store={store}>
         <RouterProvider router={router} />
         </Provider>
-      </UserContext.Provider>
+      </UserContext>
     </>
   )
 }

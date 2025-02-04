@@ -1,0 +1,374 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "name1",
+      "lastName": "name2",
+      "email": "n@n.com",
+      "password": "12345",
+      "address": "address 1 5",
+      "phone": "0548654321"
+    },
+    {
+      "id": 1735048531744,
+      "email": "v@v.com",
+      "password": "123456",
+      "firstName": "rryyff",
+      "lastName": "12345",
+      "address": "mkm",
+      "phone": "098765432"
+    },
+    {
+      "id": 1735048561067,
+      "email": "r@r.com",
+      "password": "123456"
+    },
+    {
+      "id": 1735056076483,
+      "email": "g@g.com",
+      "password": "45678"
+    },
+    {
+      "id": 1735056158117,
+      "email": "g@f.c",
+      "password": "1223"
+    },
+    {
+      "id": 1735056199077,
+      "email": "ee",
+      "password": "1212"
+    },
+    {
+      "id": 1735056264012,
+      "email": "rut@gmail.com",
+      "password": "123456789",
+      "firstName": "nechama",
+      "lastName": "lerner",
+      "address": "bbb 3 4",
+      "phone": "098765432"
+    },
+    {
+      "id": 1735057311320,
+      "email": "yafa@gmail.com",
+      "password": "12345",
+      "firstName": "qwerty",
+      "lastName": "yyyy",
+      "address": "cfcfc",
+      "phone": "098765432"
+    },
+    {
+      "id": 1738078356337,
+      "email": "4",
+      "password": "4",
+      "firstName": "k",
+      "lastName": "k",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "id": 1738232356849,
+      "email": "ds@fdv.uit",
+      "password": "3432"
+    },
+    {
+      "id": 1738232470831,
+      "email": "ds@fdv.uitjhg",
+      "password": "456456"
+    },
+    {
+      "id": 1738233008647,
+      "email": "dsf@er.u",
+      "password": "325435"
+    },
+    {
+      "id": 1738253185971,
+      "email": "q@q.qkj",
+      "password": "78979"
+    },
+    {
+      "id": 1738253461271,
+      "email": "q@q.qlk;o",
+      "password": "111"
+    },
+    {
+      "id": 1738259097420,
+      "email": "T@t.t",
+      "password": "9"
+    },
+    {
+      "id": 1738259255638,
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": 1738260032564,
+      "email": "shevi@g.com",
+      "password": "111",
+      "firstName": "שבי",
+      "lastName": "גולדפרד",
+      "address": "קוק",
+      "phone": "058323232"
+    },
+    {
+      "id": 1738438742823,
+      "email": "q@q.qii",
+      "password": "999"
+    },
+    {
+      "id": 1738444530504,
+      "email": "45634@l.n",
+      "password": "1"
+    },
+    {
+      "id": 1738444581896,
+      "email": "q@q.quio",
+      "password": "111"
+    },
+    {
+      "id": 1738445139046,
+      "email": "q@q.qpppp",
+      "password": "111"
+    },
+    {
+      "id": 1738445391198,
+      "email": "q@q.qjnjk",
+      "password": "111"
+    },
+    {
+      "id": 1738446066171,
+      "email": "q@q.qppk",
+      "password": "111"
+    },
+    {
+      "id": 1738446308628,
+      "email": "q@q.q",
+      "password": "111"
+    },
+    {
+      "id": 1738511804955,
+      "email": "t@m.mvvvrrr",
+      "password": "33434343",
+      "firstName": "t",
+      "lastName": "t",
+      "address": "tovi",
+      "phone": "111"
+    },
+    {
+      "id": 1738511965676,
+      "email": "a@z.zff",
+      "password": "34543"
+    },
+    {
+      "id": 1738517575267,
+      "email": "a@z.zkl",
+      "password": "889",
+      "firstName": "e",
+      "lastName": "",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "id": 1738517850418,
+      "email": "a@z.zmm",
+      "password": "900"
+    },
+    {
+      "id": 1738518567066,
+      "email": "a@z.zooo",
+      "password": "77777"
+    },
+    {
+      "id": 1738519097434,
+      "email": "kjkl",
+      "password": "kjku"
+    },
+    {
+      "id": 1738520313366,
+      "email": "t@m.mvvvuu",
+      "password": "3456"
+    },
+    {
+      "id": 1738520456926,
+      "email": "yui",
+      "password": "678"
+    },
+    {
+      "id": 1738520792297,
+      "email": "tT@t.txzczx",
+      "password": "343245sadas",
+      "firstName": "22",
+      "lastName": "t",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "id": 1738520930382,
+      "email": "a@z.zsdfslk",
+      "password": "4543",
+      "firstName": "t",
+      "lastName": "",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "id": 1738522397967,
+      "email": "rachel@s.s",
+      "password": "67898"
+    },
+    {
+      "id": 1738522856852,
+      "email": "111@s.r",
+      "password": "23432",
+      "firstName": "rachel",
+      "lastName": "",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "id": 1738530893625,
+      "email": "jk@ersr.jiu",
+      "password": "768858"
+    },
+    {
+      "id": 1738531932101,
+      "email": "tT@t.tlik",
+      "password": "56789"
+    },
+    {
+      "id": 1738605427900,
+      "email": "dsd@e.e",
+      "password": "23443",
+      "firstName": "tiowe",
+      "lastName": "ere",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "id": 1738605564478,
+      "email": "k@s.ij",
+      "password": "8979"
+    },
+    {
+      "id": 1738676308054,
+      "email": "levi@s.s",
+      "password": "786976"
+    },
+    {
+      "id": 1738676424123,
+      "email": "levi@s.ss",
+      "password": "78798"
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Pasta Alfredo",
+      "description": "Pasta with a rich cream sauce",
+      "authorId": 1,
+      "ingredients": [
+        "200g pasta",
+        "100ml cream",
+        "50g parmesan cheese",
+        "1 clove garlic",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "Cook the pasta according to the package instructions. In a separate pan, heat the cream and add the garlic. Stir in the parmesan cheese until melted. Combine the pasta with the sauce and season with salt and pepper."
+    },
+    {
+      "id": 2,
+      "title": "Chicken Curry",
+      "description": "Spicy and flavorful chicken curry",
+      "authorId": 1,
+      "ingredients": [
+        "500g chicken breast",
+        "1 onion",
+        "2 cloves garlic",
+        "400ml coconut milk",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "Heat the oil in a pan and sauté the chopped onion and garlic until golden. Add the chicken pieces and cook until browned. Stir in the curry powder and cook for another minute. Pour in the coconut milk and simmer for 20 minutes. Season with salt and pepper."
+    },
+    {
+      "id": 3,
+      "title": "Chocolate Cake",
+      "description": "Rich and moist chocolate cake",
+      "authorId": 3,
+      "ingredients": [
+        "200g flour",
+        "200g sugar",
+        "100g cocoa powder",
+        "1 tsp baking powder",
+        "1 tsp baking soda",
+        "2 eggs",
+        "240ml milk",
+        "120ml vegetable oil",
+        "2 tsp vanilla extract",
+        "240ml boiling water"
+      ],
+      "instructions": "Preheat the oven to 175°C (350°F). In a large bowl, mix the flour, sugar, cocoa powder, baking powder, and baking soda. Add the eggs, milk, oil, and vanilla extract, and mix until smooth. Gradually add the boiling water and mix until well combined. Pour the batter into a greased baking pan and bake for 30-35 minutes. Let cool before serving."
+    },
+    {
+      "id": 1738260139389,
+      "title": "cake",
+      "description": "my cace",
+      "authorId": "1738260032564",
+      "ingredients": [
+        "5 cups of flour",
+        "few wine"
+      ],
+      "instructions": "to bake it in the oven"
+    },
+    {
+      "id": 1738260484747,
+      "title": "cookies",
+      "description": "vanila cookies",
+      "authorId": "1738260032564",
+      "ingredients": [
+        "3 cups of flour",
+        "cup of sugar",
+        "1 margarine",
+        "1 egg"
+      ],
+      "instructions": "to mix all the ingredients and bake in 180 "
+    },
+    {
+      "id": 1738261031995,
+      "title": "dairy soup",
+      "description": "soup with yellow chizze",
+      "authorId": "1738260032564",
+      "ingredients": [
+        "1 cup of flour",
+        "1 cup mooushrom",
+        "onion",
+        "2 cups milk"
+      ],
+      "instructions": "to put every lngredient and mix"
+    },
+    {
+      "id": 1738444545620,
+      "title": "soup",
+      "description": "",
+      "authorId": "1738444530504",
+      "ingredients": [
+        "1 cup of flour"
+      ],
+      "instructions": "eee"
+    },
+    {
+      "id": 1738531390810,
+      "title": "cookies",
+      "description": "",
+      "authorId": "1738530893625",
+      "ingredients": [
+        "1 3 cups of flour",
+        "2 1margarine",
+        "3 1egg",
+        "4 1 cup of sugar"
+      ],
+      "instructions": "to mix and bake!"
+    }
+
+  ]
+}
