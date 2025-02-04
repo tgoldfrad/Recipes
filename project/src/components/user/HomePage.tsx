@@ -20,7 +20,7 @@ const HomePage = () => {
     const [isLogin, setIsLogin] = useState(false)
     const [open, setOpen] = useState(false)
     const [status, setStatus] = useState('')
-    const [state, dispatch] = useContext(UserContext)
+    const [, dispatch] = useContext(UserContext)
     const passwordRef = useRef<HTMLInputElement>(null)
     const emailRef = useRef<HTMLInputElement>(null)
 
@@ -48,7 +48,7 @@ const HomePage = () => {
                     email: userData.email
                 }
             })
-        } catch (e: unknown) {
+        } catch (e) {
             console.log(e);
             if (e.status === 422) {
                 setIsLogin(false);

@@ -5,7 +5,7 @@ import { Box } from "@mui/material"
 import { UserContext } from "./Start"
 
 const NavBar = () => {
-    const [user, func] = useContext(UserContext)
+    const [user,] = useContext(UserContext)
     const styleLink = {
         textDecoration: 'none',
         color: 'inherit',

@@ -22,7 +22,7 @@ const schema = object({
 
 
 const RecipeForm = () => {
-    const [currentUser, dispatchUser] = useContext(UserContext)
+    const [currentUser,] = useContext(UserContext)
     const [open, setOpen] = useState(true);
 
     const dispatch = useDispatch<AppDispatch>();

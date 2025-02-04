@@ -27,7 +27,7 @@ const LoggedIn = () => {
 
         }
         try {
-            const res = await axios.put(
+            await axios.put(
                 `http://localhost:3000/api/user`,
                 userData,
                 { headers: { 'user-id': state.id } }
